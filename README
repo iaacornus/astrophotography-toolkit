@@ -6,11 +6,23 @@ photography techniques and some whatever stuff being developed as a
 past-time project of a full time university student, use at your own
 discretion.
 
-========
-
-Prerequisites:
+======== Prerequisites:
 
 python >= 3.10
 
 refer to REQUIREMENTS for python dependencies
+
+======== Setup:
+
+To setup the project start by creating a virtual environment using
+python's venv:
+
+    python -m venv <venv-name>
+
+Then:
+
+    source <venv-name>/bin/activate
+
+Install the dependencies with `pip install -r REQUIREMENTS` and run the
+main script with `python -m src.main`
 
