@@ -1,0 +1,16 @@
+astrophotography-toolkit
+========
+
+This is a program/library that contains some implementations of
+photography techniques and some whatever stuff being developed as a
+past-time project of a full time university student, use at your own
+discretion.
+
+========
+
+Prerequisites:
+
+python >= 3.10
+
+refer to REQUIREMENTS for python dependencies
+
