@@ -1,0 +1,8 @@
+{
+    "OUTPUT_DIR": "./out",
+    "RAW_OUT_DIR": "./raw",
+    "RESOLUTION": [
+            1920,
+            1080
+        ]
+}
